@@ -1,0 +1,5 @@
+https://www.vogella.com/tutorials/AndroidTestingEspresso/article.html
+
+there's 3 Instrument tests here
+MainActivityEspressoTest and EspressoTest passed
+SecondActivityTest gave some NullPointerException
